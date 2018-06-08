@@ -1,16 +1,16 @@
 -- This file was automatically generated for the LuaDist project.
 
 package = "xml2lua"
-version = "1.1-1"
+version = "1.1-2"
 -- LuaDist source
 source = {
-  tag = "1.1-1",
+  tag = "1.1-2",
   url = "git://github.com/LuaDist-testing/xml2lua.git"
 }
 -- Original source
 -- source = {
 --    url = "git://github.com/manoelcampos/xml2lua",
---    tag = "v1.1-1"
+--    tag = "v1.1-2"
 -- }
 description = {
    summary = "An XML Parser written entirely in Lua that works for Lua 5.1 to 5.3",
